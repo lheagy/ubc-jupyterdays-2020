@@ -1,6 +1,12 @@
 # ubc-jupyterdays-2020-widgets
 A notebook with interactive content to demo widgets and dashboards at the UBC 2020 JupyterDays
 
+Here, we will use a motivating example that looks at CO2 data to demonstrate interactive computing with:
+- [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/latest/index.html) and 
+- [Voilà dashboards](https://voila.readthedocs.io/en/latest/?badge=latest)
+
+The example we follow is adapted from the [Intro-Jupyter tutorial from ICESat-2Hackweek](https://github.com/ICESAT-2HackWeek/intro-jupyter), which has contributions from: [Shane Grigsby (@espg)](https://github.com/espg), [Lindsey Heagy (@lheagy)](https://github.com/lheagy), [Yara Mohajerani (@yaramohajerani)](https://github.com/yaramohajerani), and [Fernando Pérez (@fperez)](https://github.com/fperez). 
+
 ## Notebook 
 [![Syzygy](https://img.shields.io/badge/launch-syzygy-important)](https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flheagy%2ubc-jupyterdays-2020&urlpath=tree%2Fubc-jupyterdays-2020%2F)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020/master)
