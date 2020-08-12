@@ -1,0 +1,11 @@
+name: ubc-demo
+channels:
+  - conda-forge
+  - conda
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - voila
