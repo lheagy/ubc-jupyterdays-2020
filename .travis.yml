@@ -17,7 +17,8 @@ install:
   - conda env create -f environment.yml
   - source activate ubc-demo
   - export MPLBACKEND="agg"
+  - conda install --yes pip
   - pip install -r requirements_dev.txt
 
 script:
-  - travis_wait 45 nosetests $TEST -v -s
+  - travis_wait 45 pytest $TEST -v
