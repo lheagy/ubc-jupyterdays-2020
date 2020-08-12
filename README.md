@@ -41,3 +41,38 @@ Scripps institute of Oceanography has a research station at Mauna Loa in Hawaii 
 
 C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, and  H. A. Meijer, Exchanges of atmospheric CO2 and 13CO2 with the terrestrial biosphere and  oceans from 1978 to 2000.  I. Global aspects, SIO Reference Series, No. 01-06, Scripps  Institution of Oceanography, San Diego, 88 pages, 2001. https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html   
 
+## Installing 
+
+To run the notebooks locally, you will need to have python installed,
+preferably through [anaconda](https://www.anaconda.com/download/). Please download 
+Python 3.7 or greater. 
+
+Once you have downloaded and installed anaconda, you can then clone this repository. 
+From a command line (if you are on windows, please use the anaconda terminal that came with the installation)
+run
+
+```
+git clone https://github.com/lheagy/ubc-jupyterdays-2020-widgets.git
+```
+
+Then `cd` into the `ubc-jupyterdays-2020-widgets` directory:
+
+```
+cd ubc-jupyterdays-2020-widgets
+```
+
+To setup your software environment, we recommend you use the provided conda environment
+
+```
+conda env create -f environment.yml
+conda activate ubc demo
+```
+
+You can then launch Jupyter
+
+```
+jupyter notebook
+```
+
+Jupyter will then launch in your web-browser.
+
