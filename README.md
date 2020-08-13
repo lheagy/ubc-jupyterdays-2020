@@ -117,6 +117,10 @@ For your first interaction with widgets, I recommend trying out `interact`. The 
 - The [intro blog](https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93) provides an overview and resources for getting up and running with Voilà
 - The [Voilà gallery](https://voila-gallery.org/) has a collection of examples built with Voilà and Jupyter widgets. 
 
+If you are running on [binder](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020-widgets/master), you can use the Voilà button! 
+
+<img src="/img/voila-button.png" width=100% alt="voila-button">
+
 
 ### Getting Started
 
@@ -151,3 +155,6 @@ Once Voilà has been installed,
 
 - by default, Voilà will strip out the source code from view. It can be displayed if the option `strip_sources` is set to False
 
+## Acknowledgements
+
+Many thanks to [Abby Azari](https://github.com/astro-abby) and [Fernando Pérez](https://github.com/fperez) for taking time to provide feedback on these notebooks! 
