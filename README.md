@@ -86,8 +86,6 @@ Jupyter will then launch in your web-browser.
 
 They can be used to create ["notebook apps"](https://jupyter4edu.github.io/jupyter-edu-book/catalogue.html#notebook-as-an-app) that abstract away details of the code and focus conversations on the role of parameters in a computation, or be a quick way to create a "Just-in-time-research-GUI" (GUI: graphical user interface) to explore results. 
 
-![widget-conversation](./img/widgets-simulations.png)
-
 
 ### Getting started
 
