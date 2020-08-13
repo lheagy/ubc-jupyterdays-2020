@@ -1,4 +1,4 @@
-**[notebooks](#Notebooks) | [motivating example](#Motivating-Example:-Atmospheric-Carbon-Dioxide) | [installing](#Installing) | [widgets](#Jupyter-widgets) | [voila](#Voila-Dashboards)**
+**[notebooks](#Notebooks) | [motivating example](#Motivating-Example-Atmospheric-Carbon-Dioxide) | [installing](#Installing) | [widgets](#Jupyter-widgets) | [voila](#Voila-Dashboards)**
 
 # ubc-jupyterdays-2020-widgets
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020-widgets/master)
