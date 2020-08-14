@@ -1,7 +1,7 @@
 **[notebooks](#Notebooks) | [motivating example](#Motivating-Example-Atmospheric-Carbon-Dioxide) | [installing](#Installing) | [widgets](#Jupyter-widgets) | [voila](#Voila-Dashboards)**
 
 # ubc-jupyterdays-2020-widgets
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020-widgets/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020-widgets/master?urlpath=lab)
 [![Syzygy](https://img.shields.io/badge/launch-syzygy-important)](https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flheagy%2Fubc-jupyterdays-2020-widgets&urlpath=tree%2Fubc-jupyterdays-2020-widgets%2F&branch=master)
 [![Build Status](https://travis-ci.org/lheagy/ubc-jupyterdays-2020-widgets.svg?branch=master)](https://travis-ci.org/lheagy/ubc-jupyterdays-2020-widgets)
 
