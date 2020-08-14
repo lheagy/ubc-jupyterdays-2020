@@ -13,7 +13,7 @@ The example we follow is adapted from the [Intro-Jupyter tutorial from ICESat-2H
 
 ## Notebooks
 - UBC Students & Faculty can run on Syzygy: [![Syzygy](https://img.shields.io/badge/launch-syzygy-important)](https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flheagy%2Fubc-jupyterdays-2020-widgets&urlpath=tree%2Fubc-jupyterdays-2020-widgets%2F&branch=master)
-- or if you don't have a UBC CWL with full Syzygy access (a "guest" account will not be sufficient) you can use: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020-widgets/master)
+- or if you don't have a UBC CWL with full Syzygy access (a "guest" account will not be sufficient) you can use: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/ubc-jupyterdays-2020-widgets/master?urlpath=lab)
 
 There are three notebooks in this repository 
 - [1-widgets-an-example.ipynb](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Flheagy%2Fubc-jupyterdays-2020-widgets%2Fmaster/master?filepath=1-widgets-an-example.ipynb): A demo notebook that makes use of widgets to explore atmospheric CO2 data and linear models 
